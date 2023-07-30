@@ -2,7 +2,7 @@
 <h3 align="center">I'm frontend developer</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/564x/e9/14/46/e91446bc420d3089463c4095d47ea0ab.jpg" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/9c/c2/2d/9cc22db04a85387fdb11023adda53f80.jpg" width="600" height="350"/>
 </div>
 
 - 🔭 I’m currently looking for a job
