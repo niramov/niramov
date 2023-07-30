@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">I'm frontend developer</h3>
 
-[](https://images.creativemarket.com/0.1.0/ps/7776708/1820/1213/m1/fpnw/wm1/siz10d4hgxai7uk653znl5kkkcribrw6bijp8bn1lfwtbxray1sybsk5a2nx2kbt-.jpg?1581964281&s=23707d4ec30ebc7e721421bf3b27e1c4)
+[](https://i.pinimg.com/originals/ce/68/78/ce68780185b875e412005e283ea64796.jpg)
 
 - 🔭 I’m currently looking for a job
 
