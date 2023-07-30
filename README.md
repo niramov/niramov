@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">I'm frontend developer</h3>
 
-[](https://i.pinimg.com/originals/ce/68/78/ce68780185b875e412005e283ea64796.jpg)
+![](https://i.pinimg.com/originals/ce/68/78/ce68780185b875e412005e283ea64796.jpg)
 
 - 🔭 I’m currently looking for a job
 
