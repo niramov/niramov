@@ -2,14 +2,20 @@
 <h3 align="center">I'm frontend developer</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9c/c2/2d/9cc22db04a85387fdb11023adda53f80.jpg" width="600" height="350"/>
+  <img src="https://i.pinimg.com/originals/9c/c2/2d/9cc22db04a85387fdb11023adda53f80.jpg" width="500" height="300"/>
 </div>
+
+--------------------------------
 
 - 🔭 I’m currently looking for a job
 
 - 👨‍💻 All of my projects are available at [my Github](https://github.com/niramov?tab=repositories)
 
 - 📫 How to reach me **nikkita.abramov@gmail.com**
+
+--------------------------------
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
