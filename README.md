@@ -16,6 +16,10 @@ Read it in [Russian](https://cv.hexlet.io/ru/resumes/2300) or in [English](https
 My portfolio
 --------------------------------
 
+- **Chat(Slack)**
+	- [Link](https://github.com/niramov/Chat-Slack)
+  - Description: Chat is a real-time React/Redux application using AJAX, REST, WebSockets, React Hooks + Redux Toolkit + Formik
+
 - **RSS agregator**
 	- [Link](https://github.com/niramov/RSS-aggregator)
   - Description: service for aggregating RSS feeds that allows you to add an unlimited number of feeds with automatic updating of the downloaded content
